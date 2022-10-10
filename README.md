@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domchang1
-- 👀 I’m interested in machine learning!
-- 🌱 I’m currently learning PyTorch
+- 👀 I’m interested in all things CS and specifically machine learning!
+- 🌱 I’m currently learning PyTorch!
 
 <!---
 domchang1/domchang1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

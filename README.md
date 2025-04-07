@@ -1,8 +1,8 @@
 
 
-### Hello! I'm Dominic Chang a Computer Science Student at the University of Pennsylvania.
+### Hello! I'm Dominic Chang, a Computer Science Student at the University of Pennsylvania.
 
-### Website: [https://brdhanani.github.io](https://dominicchang.vercel.app/)
+### Portfolio: [https://dominicchang.vercel.app/](https://dominicchang.vercel.app/)
 
 <a href="https://www.linkedin.com/in/dominicchang08/">
   <img align="left" alt="Dominic Chang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -45,11 +45,11 @@
 [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchang1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dominic Chang's Github Stats">
 </p>
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=domchang1.domchang1" alt="visitor badge"/>
 </p>
 
 -----

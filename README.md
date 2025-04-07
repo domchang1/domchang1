@@ -1,6 +1,6 @@
 
 
-# Hello! I'm Dominic Chang, a Computer Science Student at the University of Pennsylvania.
+# Hey! I'm Dominic Chang, a Computer Science Student at the University of Pennsylvania.
 
 ## Portfolio: [https://dominicchang.vercel.app/](https://dominicchang.vercel.app/)
 
@@ -59,4 +59,3 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchang1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dominic Chang's Github Stats">
 </p>
------

@@ -5,10 +5,10 @@
 ## Portfolio: [https://dominicchang.vercel.app/](https://dominicchang.vercel.app/)
 
 <a href="https://www.linkedin.com/in/dominicchang08/">
-  <img align="left" alt="Dominic Chang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dominic Chang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(100%) contrast(100%);" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100085517637944">
-  <img align="left" alt="Dominic Chang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Dominic Chang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(100%) contrast(100%);" />
 </a>
 
 <br />
@@ -16,8 +16,6 @@
 
   
 ## Languages and Tools ⚒️
-
-<br />
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)

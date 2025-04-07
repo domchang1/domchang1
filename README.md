@@ -60,4 +60,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchang1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dominic Chang's Github Stats">
 </p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=domchang1.domchang1&left_color=green&right_color=red)
+ ![Visitors](https://komarev.com/ghpvc/?username=domchang1&color=green)

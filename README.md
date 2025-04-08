@@ -15,9 +15,9 @@
 <br />
 
   
-## Languages and Tools ⚒️
+## Tech Stack 🧑‍💻
 
-### Languages
+### Languages 💻
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -30,7 +30,7 @@
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) 
 
-### Frameworks/Libraries
+### Frameworks/Libraries 📚
 [![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) 
@@ -43,7 +43,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
-### Tools
+### Tools ⚒️
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
@@ -59,3 +59,5 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchang1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dominic Chang's Github Stats">
 </p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domchang1&layout=compact)](https://github.com/domchang1/github-readme-stats)

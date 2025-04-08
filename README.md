@@ -55,10 +55,11 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
  
-<!---
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchang1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dominic Chang's Github Stats">
 </p>
+<!---
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domchang1&layout=compact" alt="Dominic Chang's Language Stats">
 </p>

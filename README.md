@@ -26,6 +26,7 @@
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](#)
 [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) 
@@ -38,6 +39,7 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) 
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
@@ -56,9 +58,8 @@
 
  
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchang1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dominic Chang's Github Stats">
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=domchang1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domchang1&layout=compact" alt="Dominic Chang's Language Stats">
